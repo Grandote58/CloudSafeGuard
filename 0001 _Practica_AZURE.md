@@ -1,5 +1,6 @@
 
-![](../2x/Mesa%20de%20trabajo%201@2xParaMD.png)
+![Mesa](https://github.com/Grandote58/CloudSafeGuard/blob/main/Mesa.png)
+
 # **Practica**
 
 La Empresa TechNova, que está iniciando su migración a Azure usando recursos gratuitos. Esta empresa desea implementar una infraestructura de red básica con políticas de seguridad robustas, incluyendo un Firewall de Aplicaciones Web (WAF) y Azure Bastion para asegurar el acceso remoto.
