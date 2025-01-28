@@ -91,4 +91,4 @@ Asegurarte de que la plataforma cumple con las normativas de seguridad.
 
 
 
-![M2](https://github.com/Grandote58/CloudSafeGuard/blob/main/Recursos/Recurso%201%402Menbrete2.png)
+![M2](https://github.com/Grandote58/CloudSafeGuard/blob/main/Recursos/Recurso%203%402Menbrete2.png)
